@@ -1,0 +1,20 @@
+del *.axf /s
+del *.bak /s
+del *.crf /s
+del *.d   /s
+del *.dep /s
+del *.htm /s
+del *.iex /s
+del *.lnp /s
+del *.lst /s
+del *.plg /s
+del *.map /s
+del *.o   /s
+del *.scr /s
+del *.sct /s
+del *.tanpengfei /s
+del *.user6 /s
+del *.Administrator /s
+del *.cool /s
+del *.uvopt /s
+exit
