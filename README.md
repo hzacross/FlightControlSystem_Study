@@ -20,6 +20,10 @@ https://www.bilibili.com/video/BV11b411p7E8
 提取码：ioye
 
 淘宝购买链接：
+手把手教你使用stm32 cube mx 在pixhawk上写飞控代码 视频教程  驱动层
+https://item.taobao.com/item.htm?spm=a230r.1.14.287.4424780670mZO9&id=567199113275&ns=1&abbucket=18#detail
+
+手把手教你如何实现飞控定点飞行 视频教程 算法篇
 https://item.taobao.com/item.htm?spm=a230r.1.14.264.44247806auR97T&id=595296421400&ns=1&abbucket=18#detail
 
 2020.05.07
